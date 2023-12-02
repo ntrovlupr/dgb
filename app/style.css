@@ -481,7 +481,7 @@ nav {
 
   .archive:hover,
   .home:hover {
-    color: rgba(100, 248, 223, 0.868);
+    color: hsla(114, 49%, 35%, 0.89);
     font-size: 1.1rem;
     font-weight: bold;
     padding: .5em .7em;
